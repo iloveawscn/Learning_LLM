@@ -68,3 +68,12 @@ logs/
 *.log
 .cache/
 
+# =========================
+#
+# Project-specific ignores
+#
+# =========================
+
+# Do not sync vector database to remote
+第五周/vector_db/
+start.sh
