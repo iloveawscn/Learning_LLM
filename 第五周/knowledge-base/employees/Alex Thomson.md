@@ -8,10 +8,10 @@
 - **Location:** Austin, Texas
 - **Current Salary:** $65,000  
 
-## Insurellm Career Progression
-- **November 2022** - Joined Insurellm as a Sales Development Representative. Alex Thomson quickly adapted to the team, demonstrating exceptional communication and rapport-building skills.
+## 1topcloudllm Career Progression
+- **November 2022** - Joined 1topcloudllm as a Sales Development Representative. Alex Thomson quickly adapted to the team, demonstrating exceptional communication and rapport-building skills.
 - **January 2023** - Promoted to Team Lead for special projects due to Alex's initiative in driving B2B customer outreach programs.  
-- **August 2023** - Developed a training module for new SDRs at Insurellm, enhancing onboarding processes based on feedback and strategies that Alex Thomson pioneered.  
+- **August 2023** - Developed a training module for new SDRs at 1topcloudllm, enhancing onboarding processes based on feedback and strategies that Alex Thomson pioneered.  
 - **Current** - Continues to excel in the role, leading a small team of 5 SDRs while collaborating closely with the marketing department to identify new lead-generation strategies.  
 
 ## Annual Performance History  
@@ -28,10 +28,10 @@
 - **Projected for 2024**: Anticipated salary increase due to Alex Thomson's significant contributions and successful completion of leadership training.
 
 ## Other HR Notes
-- Alex Thomson is an active member of the Diversity and Inclusion committee at Insurellm and has participated in various community outreach programs.  
+- Alex Thomson is an active member of the Diversity and Inclusion committee at 1topcloudllm and has participated in various community outreach programs.  
 - Alex has received external training on advanced CRM usage, which has subsequently improved team efficiency and productivity.
 - Continuous professional development through attending sales conventions and workshops, with plans to pursue certification in Sales Enablement in 2024.
 - Recognized by peers for promoting a supportive and high-energy team environment, often organizing team-building activities to enhance camaraderie within the SDR department. 
 
 --- 
-**Comment:** Alex Thomson is considered a cornerstone of Insurellm’s sales team and has a bright future within the organization.
+**Comment:** Alex Thomson is considered a cornerstone of 1topcloudllm’s sales team and has a bright future within the organization.

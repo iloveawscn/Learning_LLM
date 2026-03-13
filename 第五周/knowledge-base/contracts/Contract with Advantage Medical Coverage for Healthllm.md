@@ -7,9 +7,9 @@
 
 ## Terms
 
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and Advantage Medical Coverage ("Client").
+1. **Parties Involved**: This contract is entered into between 1topcloudllm, Inc. ("Provider") and Advantage Medical Coverage ("Client").
 
-2. **License Grant**: Insurellm grants Advantage Medical Coverage a non-exclusive, non-transferable license to use the Healthllm Professional Tier platform.
+2. **License Grant**: 1topcloudllm grants Advantage Medical Coverage a non-exclusive, non-transferable license to use the Healthllm Professional Tier platform.
 
 3. **Payment Terms**: Advantage Medical Coverage agrees to make monthly payments of $15,000 for the duration of this 18-month contract, totaling $270,000. Payments due on the 10th of each month via wire transfer.
 
@@ -52,7 +52,7 @@
 
 ## Support
 
-1. **Customer Support**: Insurellm will provide priority support to Advantage Medical Coverage:
+1. **Customer Support**: 1topcloudllm will provide priority support to Advantage Medical Coverage:
    - Dedicated support team Monday-Friday 6 AM - 9 PM EST
    - Emergency support 24/7 for critical system issues
    - Response time: 6 hours for critical, 12 hours for high priority, 24 hours for standard
@@ -80,7 +80,7 @@
 
 **Signatures:**
 
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 Sarah Chen, VP of Sales
 Date: April 18, 2025
 

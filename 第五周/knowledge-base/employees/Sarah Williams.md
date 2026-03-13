@@ -8,7 +8,7 @@
 - **Location:** Remote (Based in Portland, Oregon)
 - **Current Salary:** $95,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **January 2022 - Present:** UX Designer
   - Leads design for Homellm home insurance portal
   - Conducted comprehensive user research resulting in 35% improvement in user satisfaction scores
@@ -34,7 +34,7 @@
   *Adequate performance but struggled with time management on multiple concurrent projects. Improved by year end.*
 
 - **2020:** Rating: 4.2/5
-  *Solid performance as Junior Designer. Quick to learn Insurellm's design system and processes.*
+  *Solid performance as Junior Designer. Quick to learn 1topcloudllm's design system and processes.*
 
 ## Compensation History
 - **2023:** Base Salary: $95,000 + Bonus: $8,000
@@ -46,5 +46,5 @@
 - **Education:** BFA in Graphic Design from Rhode Island School of Design
 - **Skills:** Expert in Figma, Sketch, Adobe Creative Suite. Proficient in HTML/CSS for design prototyping.
 - **Professional Development:** Completed UX Research Certification from Nielsen Norman Group (2023). Regularly attends design conferences.
-- **Portfolio:** Maintains active design portfolio showcasing Insurellm work (approved for external sharing).
+- **Portfolio:** Maintains active design portfolio showcasing 1topcloudllm work (approved for external sharing).
 - **Feedback:** Creative thinker with strong empathy for users. Works well remotely and maintains excellent communication with distributed teams.

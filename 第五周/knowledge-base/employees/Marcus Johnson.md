@@ -8,7 +8,7 @@
 - **Location:** New York, New York
 - **Current Salary:** $98,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **April 2020 - Present:** Customer Success Manager
   - Manages portfolio of 25 enterprise clients generating $5M in annual revenue
   - Achieved 95% client retention rate over past three years

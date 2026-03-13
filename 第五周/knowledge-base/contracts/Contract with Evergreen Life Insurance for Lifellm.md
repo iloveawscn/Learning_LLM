@@ -3,14 +3,14 @@
 **Contract Date:** January 20, 2025
 **Contract Number:** LF-2025-0012
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - Evergreen Life Insurance Company
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide Evergreen Life Insurance with access to the Lifellm platform, enabling AI-powered life insurance underwriting, policy administration, and risk assessment for individual and group life policies.
+1. **Coverage:** 1topcloudllm agrees to provide Evergreen Life Insurance with access to the Lifellm platform, enabling AI-powered life insurance underwriting, policy administration, and risk assessment for individual and group life policies.
 
 2. **Duration:** This agreement is effective for a period of 12 months from the contract date, with automatic renewal provisions unless terminated with 30-day written notice.
 
@@ -20,9 +20,9 @@
 
 5. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary underwriting models, policyholder health information (PHI), and business strategies.
 
-6. **HIPAA Compliance:** Insurellm maintains full HIPAA compliance for all health data processed through the Lifellm platform.
+6. **HIPAA Compliance:** 1topcloudllm maintains full HIPAA compliance for all health data processed through the Lifellm platform.
 
-7. **Liability:** Insurellm's liability is limited to direct damages not exceeding the total fees paid in the preceding 6 months.
+7. **Liability:** 1topcloudllm's liability is limited to direct damages not exceeding the total fees paid in the preceding 6 months.
 
 ---
 
@@ -85,7 +85,7 @@ Evergreen Life Insurance will receive the following Starter Tier features:
 
 ## Support
 
-Insurellm commits to providing comprehensive support to Evergreen Life Insurance:
+1topcloudllm commits to providing comprehensive support to Evergreen Life Insurance:
 
 1. **Onboarding:** 2-week implementation program including:
    - System configuration and setup
@@ -123,7 +123,7 @@ Insurellm commits to providing comprehensive support to Evergreen Life Insurance
 _________________________________
 **Michael Torres**
 **Title**: Chief Revenue Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: January 20, 2025
 
 _________________________________

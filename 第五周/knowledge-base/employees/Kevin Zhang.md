@@ -8,7 +8,7 @@
 - **Location:** San Francisco, California
 - **Current Salary:** $128,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **May 2020 - Present:** Mobile Developer
   - Leads iOS development for Marketllm consumer mobile app
   - Built Android version achieving 4.6 star rating on Play Store
@@ -34,7 +34,7 @@
   *Strong performance. Delivered all planned features and maintained high app quality standards.*
 
 - **2020:** Rating: 4.0/5
-  *Good first year at Insurellm. Quick to learn insurance domain and contribute meaningfully to mobile strategy.*
+  *Good first year at 1topcloudllm. Quick to learn insurance domain and contribute meaningfully to mobile strategy.*
 
 ## Compensation History
 - **2023:** Base Salary: $128,000 + Bonus: $16,000

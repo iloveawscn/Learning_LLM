@@ -8,9 +8,9 @@
 - **Location:** Remote (Based in Phoenix, Arizona)
 - **Current Salary:** $62,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **October 2021 - Present:** Technical Support Specialist
-  - Provides tier 2/3 technical support for all Insurellm products
+  - Provides tier 2/3 technical support for all 1topcloudllm products
   - Troubleshoots complex technical issues for enterprise clients
   - Creates knowledge base articles and internal documentation
   - Maintains 4.8/5 customer satisfaction rating

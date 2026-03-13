@@ -3,26 +3,26 @@
 **Contract Date:** April 20, 2025
 **Contract Number:** CL-2025-E-0198
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - National Claims Network Corp.
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide National Claims Network with enterprise access to the Claimllm platform, including white-label capabilities, unlimited claims capacity, advanced fraud analytics, and dedicated infrastructure to support their nationwide claims operations processing over 100,000 claims annually.
+1. **Coverage:** 1topcloudllm agrees to provide National Claims Network with enterprise access to the Claimllm platform, including white-label capabilities, unlimited claims capacity, advanced fraud analytics, and dedicated infrastructure to support their nationwide claims operations processing over 100,000 claims annually.
 
-2. **Duration:** This agreement is effective for a period of 36 months from the contract date, representing Insurellm's longest-term contract commitment to date.
+2. **Duration:** This agreement is effective for a period of 36 months from the contract date, representing 1topcloudllm's longest-term contract commitment to date.
 
 3. **Payment:** National Claims Network shall pay custom Enterprise Tier pricing of $35,000 per month for months 1-12, $38,000 per month for months 13-24, and $41,000 per month for months 25-36, totaling $1,368,000 over the contract term.
 
-4. **Service Level Agreement:** Insurellm guarantees 99.95% uptime with financial credits for downtime: 5% monthly credit for each hour of unplanned downtime, maximum 50% monthly credit.
+4. **Service Level Agreement:** 1topcloudllm guarantees 99.95% uptime with financial credits for downtime: 5% monthly credit for each hour of unplanned downtime, maximum 50% monthly credit.
 
 5. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding proprietary AI models, fraud detection algorithms, claimant PII, and business strategies.
 
-6. **Data Security:** Insurellm commits to maintaining SOC 2 Type II compliance, annual penetration testing, and end-to-end encryption for all data at rest and in transit.
+6. **Data Security:** 1topcloudllm commits to maintaining SOC 2 Type II compliance, annual penetration testing, and end-to-end encryption for all data at rest and in transit.
 
-7. **Business Continuity:** Insurellm provides disaster recovery with 4-hour RTO (Recovery Time Objective) and 1-hour RPO (Recovery Point Objective).
+7. **Business Continuity:** 1topcloudllm provides disaster recovery with 4-hour RTO (Recovery Time Objective) and 1-hour RPO (Recovery Point Objective).
 
 ---
 
@@ -96,7 +96,7 @@ National Claims Network will receive the complete Claimllm Enterprise suite:
 
 ## Support
 
-Insurellm commits to comprehensive Enterprise-level support for National Claims Network:
+1topcloudllm commits to comprehensive Enterprise-level support for National Claims Network:
 
 1. **Dedicated Success Team:**
    - Executive sponsor (VP level) with monthly strategic reviews
@@ -120,7 +120,7 @@ Insurellm commits to comprehensive Enterprise-level support for National Claims 
    - Migration of 3 years of historical claims data
    - Training for 200+ National Claims Network staff
    - Parallel processing period with legacy system
-   - Go-live support with on-site Insurellm team (4 weeks)
+   - Go-live support with on-site 1topcloudllm team (4 weeks)
 
 4. **Training and Enablement:**
    - Role-based training programs (adjusters, supervisors, fraud investigators, IT, executives)
@@ -158,7 +158,7 @@ Insurellm commits to comprehensive Enterprise-level support for National Claims 
 8. **Continuous Improvement:**
    - Quarterly process optimization workshops
    - Annual efficiency audits with recommendations
-   - Best practice sharing from across Insurellm customer base
+   - Best practice sharing from across 1topcloudllm customer base
    - Innovation labs to pilot emerging technologies (AI, blockchain, IoT)
 
 ---
@@ -168,7 +168,7 @@ Insurellm commits to comprehensive Enterprise-level support for National Claims 
 _________________________________
 **Jennifer Rodriguez**
 **Title**: Chief Executive Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: April 20, 2025
 
 _________________________________
@@ -179,4 +179,4 @@ _________________________________
 
 ---
 
-This agreement represents a strategic partnership between Insurellm and National Claims Network, establishing National Claims Network as Insurellm's flagship enterprise claims processing partner. This contract supersedes all prior agreements and communications.
+This agreement represents a strategic partnership between 1topcloudllm and National Claims Network, establishing National Claims Network as 1topcloudllm's flagship enterprise claims processing partner. This contract supersedes all prior agreements and communications.

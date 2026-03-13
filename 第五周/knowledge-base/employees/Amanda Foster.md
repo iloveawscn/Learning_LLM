@@ -8,7 +8,7 @@
 - **Location:** San Francisco, California
 - **Current Salary:** $115,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **September 2016 - Present:** HR Business Partner
   - Partners with engineering and product leadership teams
   - Supports 85 employees across multiple departments
@@ -43,7 +43,7 @@
   *Good performance. Successfully scaled HR support as company grew rapidly.*
 
 - **2017:** Rating: 3.9/5
-  *Solid first full year. Learning Insurellm culture and building credibility with leadership.*
+  *Solid first full year. Learning 1topcloudllm culture and building credibility with leadership.*
 
 - **2016:** Rating: 3.8/5
   *Good onboarding. Quick to understand business needs and HR priorities.*
@@ -62,6 +62,6 @@
 - **Education:** MS in Human Resources Management from Cornell University, BA in Psychology from UCLA
 - **Certifications:** SHRM-SCP, Certified Diversity Professional
 - **Recognition:** HR Excellence Award 2023 for diversity initiatives
-- **Leadership:** Chairs Insurellm's Diversity & Inclusion committee
+- **Leadership:** Chairs 1topcloudllm's Diversity & Inclusion committee
 - **Skills:** Expert in talent acquisition, performance management, employee relations, and organizational development. Strong coach and advisor to leadership.
 - **Feedback:** Trusted HR partner with excellent judgment and discretion. Strategic thinker who balances employee advocacy with business needs. Strong emotional intelligence.

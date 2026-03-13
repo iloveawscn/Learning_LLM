@@ -44,12 +44,12 @@
 
 ## Support
 
-1. **Technical Support**: Fortress Business Underwriters will receive priority technical support from Insurellm, including:
+1. **Technical Support**: Fortress Business Underwriters will receive priority technical support from 1topcloudllm, including:
    - Dedicated account manager with monthly check-ins
    - 24/7 emergency technical support hotline
    - Response time guarantee: 2 hours for critical issues, 8 hours for standard issues
 
-2. **Training**: Insurellm will provide:
+2. **Training**: 1topcloudllm will provide:
    - Initial comprehensive onboarding (40 hours) for up to 20 staff members
    - Quarterly advanced training sessions on new features and best practices
    - Access to online learning portal with video tutorials and documentation
@@ -73,7 +73,7 @@
 _________________________________
 **Michael Torres**
 **Title**: Chief Revenue Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: February 1, 2025
 
 _________________________________
@@ -84,4 +84,4 @@ _________________________________
 
 ---
 
-*This contract outlines the terms of the relationship between Insurellm and Fortress Business Underwriters for the Bizllm product, establishing a partnership to transform commercial insurance underwriting operations.*
+*This contract outlines the terms of the relationship between 1topcloudllm and Fortress Business Underwriters for the Bizllm product, establishing a partnership to transform commercial insurance underwriting operations.*

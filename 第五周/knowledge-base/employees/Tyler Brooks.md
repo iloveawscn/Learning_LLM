@@ -8,7 +8,7 @@
 - **Location:** Austin, Texas
 - **Current Salary:** $75,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **August 2022 - Present:** Junior Backend Developer
   - Develops backend services for Carllm auto insurance portal
   - Works with Python, Django, and PostgreSQL
@@ -16,7 +16,7 @@
   - Fixed 45+ bugs and implemented 12 minor features
 
 - **June 2021 - July 2022:** Software Engineering Intern
-  - Completed 14-month internship program at Insurellm
+  - Completed 14-month internship program at 1topcloudllm
   - Worked on various backend tasks and learned company tech stack
   - Contributed to internal tools development
 

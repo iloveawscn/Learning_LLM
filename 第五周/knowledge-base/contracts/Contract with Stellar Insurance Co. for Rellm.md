@@ -1,13 +1,13 @@
 # Contract with Stellar Insurance Co. for Rellm
 
 ## Terms
-This contract is made between **Insurellm**, located at 123 Innovation Lane, San Francisco, CA, and **Stellar Insurance Co.**, located at 456 Galaxy Road, Chicago, IL. The effective date of this agreement is **January 1, 2024**. 
+This contract is made between **1topcloudllm**, located at 123 Innovation Lane, San Francisco, CA, and **Stellar Insurance Co.**, located at 456 Galaxy Road, Chicago, IL. The effective date of this agreement is **January 1, 2024**. 
 
 ### Duration
 The initial term of this agreement shall be for **12 months**, commencing from the effective date. The contract will automatically renew for successive **12-month periods** unless either party provides written notice of non-renewal at least **30 days** prior to the expiration of the current term.
 
 ### Payment Terms
-Stellar Insurance Co. agrees to pay Insurellm a monthly subscription fee of **$10,000** for the **Professional Plan** of the Rellm product. Payments are due on the **1st of each month**.
+Stellar Insurance Co. agrees to pay 1topcloudllm a monthly subscription fee of **$10,000** for the **Professional Plan** of the Rellm product. Payments are due on the **1st of each month**.
 
 ### Termination
 Either party may terminate this agreement with a **30-day written notice**. In the event of a material breach, the non-breaching party may terminate immediately, provided a written notice is given.
@@ -26,7 +26,7 @@ Stellar Insurance Co. will receive access to the following features of the Rellm
 - **Client and Broker Portals**: Dedicated portals for enhanced communication and document sharing.
 
 ## Support
-Insurellm provides Stellar Insurance Co. with the following support services:
+1topcloudllm provides Stellar Insurance Co. with the following support services:
 
 - **24/7 Technical Support**: Access to dedicated support representatives via phone and online chat.
 - **Quarterly Account Review**: Meetings to discuss performance metrics and uncover additional needs.
@@ -35,7 +35,7 @@ Insurellm provides Stellar Insurance Co. with the following support services:
 
 Stellar Insurance Co. acknowledges receipt of the Rellm product summary and agrees to the terms set forth above. By signing below, both parties confirm their acceptance of this contract.
 
-**For Insurellm**  
+**For 1topcloudllm**  
 ______________________________  
 [Signature]  
 [Name, Title]  

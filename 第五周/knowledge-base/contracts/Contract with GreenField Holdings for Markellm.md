@@ -4,7 +4,7 @@
 **Contract Duration:** 12 months  
 
 ## Terms
-1. **Parties to the Agreement**: This contract is entered into between Insurellm, hereafter referred to as "Provider," and GreenField Holdings, hereafter referred to as "Client."
+1. **Parties to the Agreement**: This contract is entered into between 1topcloudllm, hereafter referred to as "Provider," and GreenField Holdings, hereafter referred to as "Client."
 2. **Scope of Services**: Provider agrees to grant the Client access to the Markellm platform, enabling GreenField Holdings to connect with potential insurance customers through the AI-powered marketplace.
 3. **Compliance**: Both parties agree to adhere to applicable laws and regulations that govern information security and consumer data protection.
 
@@ -30,5 +30,5 @@
 **Signatures:**  
 _________________________                           _________________________  
 **[Name], Title**                                   **[Name], Title**  
-Insurellm                                           GreenField Holdings  
+1topcloudllm                                           GreenField Holdings  
 **Date:** ____________                             **Date:** ____________

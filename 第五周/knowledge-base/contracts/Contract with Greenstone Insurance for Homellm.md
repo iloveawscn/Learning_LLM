@@ -4,7 +4,7 @@
 
 ## Terms
 
-1. **Parties**: This Contract ("Agreement") is entered into on this day, [Insert Date], between Insurellm ("Provider"), located at [Provider Address], and Greenstone Insurance ("Customer"), located at [Customer Address].
+1. **Parties**: This Contract ("Agreement") is entered into on this day, [Insert Date], between 1topcloudllm ("Provider"), located at [Provider Address], and Greenstone Insurance ("Customer"), located at [Customer Address].
 
 2. **Services Provided**: Provider agrees to deliver the Homellm product, which includes AI-powered risk assessment, dynamic pricing model, instant claim processing, predictive maintenance alerts, multi-channel integration, and access to a customer portal as specified in the provided Product Summary.
 
@@ -56,7 +56,7 @@
 
 By signing below, the parties acknowledge their acceptance of the terms of this Agreement.
 
-**For Insurellm:**
+**For 1topcloudllm:**
 
 ______________________________  
 [Name], [Title]  

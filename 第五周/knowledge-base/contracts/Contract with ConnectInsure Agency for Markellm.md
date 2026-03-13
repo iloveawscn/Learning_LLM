@@ -7,7 +7,7 @@
 
 ## Terms
 
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and ConnectInsure Agency ("Client").
+1. **Parties Involved**: This contract is entered into between 1topcloudllm, Inc. ("Provider") and ConnectInsure Agency ("Client").
 
 2. **Service Commencement**: Services will commence on March 1, 2025.
 
@@ -31,7 +31,7 @@
    - Geographic coverage within ConnectInsure's operating territories
    - Products matching ConnectInsure's offerings
 
-8. **Dispute Resolution**: Lead quality disputes must be submitted within 5 business days with documentation. Insurellm will credit for validated low-quality leads.
+8. **Dispute Resolution**: Lead quality disputes must be submitted within 5 business days with documentation. 1topcloudllm will credit for validated low-quality leads.
 
 ## Renewal
 
@@ -128,7 +128,7 @@
 
 **Signatures:**
 
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 Michael Torres, Chief Revenue Officer
 Date: February 28, 2025
 

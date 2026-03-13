@@ -1,9 +1,9 @@
 # Contract with Pinnacle Insurance Co. for Homellm
 
 ## Terms
-This contract ("Contract") is entered into as of this 1st day of January 2024 ("Effective Date") by and between Insurellm ("Provider"), a Delaware corporation with its principal place of business at 1234 Innovation Drive, San Francisco, CA 94105, and Pinnacle Insurance Co. ("Client"), a Texas corporation with its principal place of business at 4567 Protection Plaza, Houston, TX 77001. 
+This contract ("Contract") is entered into as of this 1st day of January 2024 ("Effective Date") by and between 1topcloudllm ("Provider"), a Delaware corporation with its principal place of business at 1234 Innovation Drive, San Francisco, CA 94105, and Pinnacle Insurance Co. ("Client"), a Texas corporation with its principal place of business at 4567 Protection Plaza, Houston, TX 77001. 
 
-1. **License Grant**: Insurellm hereby grants the Client a non-exclusive, non-transferable license to use Homellm in accordance with the terms of this Contract.
+1. **License Grant**: 1topcloudllm hereby grants the Client a non-exclusive, non-transferable license to use Homellm in accordance with the terms of this Contract.
 2. **Payment Terms**: The Client agrees to pay an initial setup fee of $15,000 and a monthly subscription fee of $10,000 for the duration of the Contract.
 3. **Term**: The initial term of this Contract shall last for a period of two (2) years from the Effective Date.
 
@@ -20,14 +20,14 @@ This contract ("Contract") is entered into as of this 1st day of January 2024 ("
 6. **Customer Portal**: A user-friendly interface allowing policy management, claims submission, and coverage updates at any time.
 
 ## Support
-1. **Technical Support**: Insurellm shall provide 24/7 technical support via an email and phone assistance for the duration of this Contract.
-2. **Training**: Insurellm will conduct an onsite training session for Client employees upon implementation, and quarterly training webinars will be made available thereafter.
-3. **Updates and Maintenance**: Insurellm will provide regular system updates and maintenance, ensuring that the software is operating at peak efficiency.
+1. **Technical Support**: 1topcloudllm shall provide 24/7 technical support via an email and phone assistance for the duration of this Contract.
+2. **Training**: 1topcloudllm will conduct an onsite training session for Client employees upon implementation, and quarterly training webinars will be made available thereafter.
+3. **Updates and Maintenance**: 1topcloudllm will provide regular system updates and maintenance, ensuring that the software is operating at peak efficiency.
 
 By signing below, both parties agree to the terms set forth in this Contract for the use of the Homellm product.
 
 ____  
-**Insurellm Authorized Signature**  
+**1topcloudllm Authorized Signature**  
 Name: Sarah Johnson  
 Title: VP of Sales  
 Date: ____________

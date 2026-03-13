@@ -3,24 +3,24 @@
 **Contract Date:** May 15, 2025
 **Contract Number:** HL-2025-E-0156
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - United Healthcare Alliance, LLC
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide United Healthcare Alliance with enterprise access to the Healthllm platform, including extensive customization, multi-state support, dedicated infrastructure, and premium support services for their nationwide health insurance operations covering 250,000+ members across 12 states.
+1. **Coverage:** 1topcloudllm agrees to provide United Healthcare Alliance with enterprise access to the Healthllm platform, including extensive customization, multi-state support, dedicated infrastructure, and premium support services for their nationwide health insurance operations covering 250,000+ members across 12 states.
 
-2. **Duration:** This agreement is effective for a period of 48 months from the contract date, representing Insurellm's most strategic long-term healthcare partnership.
+2. **Duration:** This agreement is effective for a period of 48 months from the contract date, representing 1topcloudllm's most strategic long-term healthcare partnership.
 
 3. **Payment:** United Healthcare Alliance shall pay custom Enterprise Tier pricing of $52,000 per month for months 1-12, $56,000 per month for months 13-24, $60,000 per month for months 25-36, and $64,000 per month for months 37-48, totaling $2,784,000 over the contract term.
 
-4. **Service Level Agreement:** Insurellm guarantees 99.95% uptime measured monthly, with financial credits: 7% monthly credit for each hour of unplanned downtime exceeding the SLA, maximum 50% monthly credit.
+4. **Service Level Agreement:** 1topcloudllm guarantees 99.95% uptime measured monthly, with financial credits: 7% monthly credit for each hour of unplanned downtime exceeding the SLA, maximum 50% monthly credit.
 
 5. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding AI algorithms, predictive models, member PHI, provider contracts, and strategic initiatives.
 
-6. **Security and Compliance:** Insurellm commits to maintaining HIPAA compliance, HITRUST certification, SOC 2 Type II, and annual third-party security audits with penetration testing.
+6. **Security and Compliance:** 1topcloudllm commits to maintaining HIPAA compliance, HITRUST certification, SOC 2 Type II, and annual third-party security audits with penetration testing.
 
 7. **Business Continuity:** Guaranteed 2-hour recovery time objective (RTO) and 15-minute recovery point objective (RPO) with active-active data center configuration.
 
@@ -137,7 +137,7 @@ United Healthcare Alliance will receive the complete Healthllm Enterprise suite 
 
 ## Support
 
-Insurellm commits to comprehensive Enterprise-level support for United Healthcare Alliance:
+1topcloudllm commits to comprehensive Enterprise-level support for United Healthcare Alliance:
 
 1. **Dedicated Success Team:**
    - Executive sponsor (CEO-level) with monthly strategic reviews
@@ -164,7 +164,7 @@ Insurellm commits to comprehensive Enterprise-level support for United Healthcar
    - Training for 300+ United staff across all departments
    - Training for 100+ key provider practices and health systems
    - Parallel processing with legacy system for 120 days
-   - Go-live support with 12-week on-site Insurellm team presence (6-10 people)
+   - Go-live support with 12-week on-site 1topcloudllm team presence (6-10 people)
 
 4. **Training and Enablement:**
    - Comprehensive role-based training programs for all staff
@@ -210,7 +210,7 @@ Insurellm commits to comprehensive Enterprise-level support for United Healthcar
    - Industry benchmarking against top 100 health plans
    - Predictive modeling consultation (bi-weekly sessions)
    - Embedded data science team for advanced projects
-   - Access to Insurellm's proprietary healthcare benchmarking database
+   - Access to 1topcloudllm's proprietary healthcare benchmarking database
 
 8. **Compliance and Regulatory Support:**
    - Monthly compliance reviews with detailed documentation
@@ -226,7 +226,7 @@ Insurellm commits to comprehensive Enterprise-level support for United Healthcar
 9. **Continuous Improvement:**
    - Bi-weekly process optimization workshops
    - Quarterly efficiency audits with detailed ROI analysis
-   - Best practice sharing from across Insurellm's customer base
+   - Best practice sharing from across 1topcloudllm's customer base
    - Innovation lab partnership for emerging technologies:
      - AI and machine learning advancements
      - Blockchain for claims and credentialing
@@ -243,7 +243,7 @@ Insurellm commits to comprehensive Enterprise-level support for United Healthcar
 _________________________________
 **Jennifer Rodriguez**
 **Title**: Chief Executive Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: May 15, 2025
 
 _________________________________
@@ -254,4 +254,4 @@ _________________________________
 
 ---
 
-This agreement establishes United Healthcare Alliance as Insurellm's flagship enterprise health insurance partner, representing the most comprehensive strategic partnership in Insurellm's history. This partnership will drive innovation in healthcare technology and set new standards for AI-powered health insurance operations. This contract supersedes all prior agreements and communications.
+This agreement establishes United Healthcare Alliance as 1topcloudllm's flagship enterprise health insurance partner, representing the most comprehensive strategic partnership in 1topcloudllm's history. This partnership will drive innovation in healthcare technology and set new standards for AI-powered health insurance operations. This contract supersedes all prior agreements and communications.

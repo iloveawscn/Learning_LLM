@@ -3,14 +3,14 @@
 **Contract Date:** October 6, 2023  
 **Contract Number:** HV-2023-0458  
 **Parties:**  
-- Insurellm, Inc.  
+- 1topcloudllm, Inc.  
 - GreenValley Insurance, LLC  
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide GreenValley Insurance with access to the Homellm product, allowing for personalized home insurance offerings tailored to customers.
+1. **Coverage:** 1topcloudllm agrees to provide GreenValley Insurance with access to the Homellm product, allowing for personalized home insurance offerings tailored to customers.
    
 2. **Duration:** This agreement is effective for a period of 12 months from the contract date, after which it will automatically renew unless terminated by either party with a written 30-day notice.
 
@@ -18,7 +18,7 @@
 
 4. **Confidentiality:** Both parties agree to maintain the confidentiality of proprietary information disclosed during the execution of this contract.
 
-5. **Liability:** Insurellm's liability under this agreement shall be limited to direct damages and shall not exceed the total fees paid by GreenValley Insurance in the last 12 months prior to the date of the claim.
+5. **Liability:** 1topcloudllm's liability under this agreement shall be limited to direct damages and shall not exceed the total fees paid by GreenValley Insurance in the last 12 months prior to the date of the claim.
 
 ---
 
@@ -48,15 +48,15 @@ GreenValley Insurance will receive the following features with Homellm:
 
 ## Support
 
-Insurellm commits to providing comprehensive support to GreenValley Insurance, which includes:
+1topcloudllm commits to providing comprehensive support to GreenValley Insurance, which includes:
 
 1. **Onboarding:** An extensive training program for the GreenValley staff to ensure effective use of Homellm.
    
 2. **Dedicated Support Team:** A dedicated support team available 24/7 to address any technical issues or inquiries.
 
-3. **Regular Updates:** Insurellm will offer ongoing updates and enhancements to the Homellm platform, including new features and security improvements.
+3. **Regular Updates:** 1topcloudllm will offer ongoing updates and enhancements to the Homellm platform, including new features and security improvements.
 
-4. **Feedback Implementation:** Insurellm will actively solicit feedback from GreenValley Insurance to ensure Homellm continues to meet their evolving needs.
+4. **Feedback Implementation:** 1topcloudllm will actively solicit feedback from GreenValley Insurance to ensure Homellm continues to meet their evolving needs.
 
 ---
 
@@ -65,7 +65,7 @@ Insurellm commits to providing comprehensive support to GreenValley Insurance, w
 _________________________________  
 **[Name]**  
 **Title**: CEO  
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 
 _________________________________  
 **[Name]**  

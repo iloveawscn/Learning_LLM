@@ -7,9 +7,9 @@
 
 ## Terms
 
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and FastTrack Insurance Services ("Client") on May 10, 2025.
+1. **Parties Involved**: This contract is entered into between 1topcloudllm, Inc. ("Provider") and FastTrack Insurance Services ("Client") on May 10, 2025.
 
-2. **License Grant**: Insurellm grants FastTrack Insurance Services a non-exclusive, non-transferable license to use the Claimllm Advanced Tier platform.
+2. **License Grant**: 1topcloudllm grants FastTrack Insurance Services a non-exclusive, non-transferable license to use the Claimllm Advanced Tier platform.
 
 3. **Payment Terms**: FastTrack Insurance Services agrees to make monthly payments of $9,500 for the duration of this 18-month contract, totaling $171,000. Payments due on the 1st of each month.
 
@@ -43,7 +43,7 @@
 
 ## Support
 
-1. **Customer Support**: Insurellm will provide priority support to FastTrack Insurance Services:
+1. **Customer Support**: 1topcloudllm will provide priority support to FastTrack Insurance Services:
    - Dedicated support team available Monday-Saturday 6 AM - 8 PM EST
    - Emergency support 24/7 for critical issues
    - Response time: 3 hours for critical, 8 hours for standard
@@ -60,7 +60,7 @@
 
 **Signatures:**
 
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 Sarah Chen, VP of Sales
 Date: May 10, 2025
 
@@ -70,4 +70,4 @@ Date: May 10, 2025
 
 ---
 
-This contract represents the agreement between Insurellm and FastTrack Insurance Services for streamlined, AI-powered claims processing operations.
+This contract represents the agreement between 1topcloudllm and FastTrack Insurance Services for streamlined, AI-powered claims processing operations.

@@ -3,14 +3,14 @@
 **Contract Date:** March 20, 2025
 **Contract Number:** CR-2025-E-0078
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - DriveSmart Insurance Corp.
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide DriveSmart Insurance with enterprise access to the Carllm platform, including white-label capabilities, unlimited user licenses, dedicated infrastructure, and full API access for their multi-state auto insurance operations.
+1. **Coverage:** 1topcloudllm agrees to provide DriveSmart Insurance with enterprise access to the Carllm platform, including white-label capabilities, unlimited user licenses, dedicated infrastructure, and full API access for their multi-state auto insurance operations.
 
 2. **Duration:** This agreement is effective for a period of 36 months from the contract date.
 
@@ -18,11 +18,11 @@
 
 4. **Policy Volume**: Enterprise Tier supports unlimited policies. DriveSmart currently has 85,000 active auto policies across 8 states.
 
-5. **Service Level Agreement:** Insurellm guarantees 99.9% platform uptime measured monthly, with 8% monthly credit for each 0.1% below target, maximum 40% monthly credit.
+5. **Service Level Agreement:** 1topcloudllm guarantees 99.9% platform uptime measured monthly, with 8% monthly credit for each 0.1% below target, maximum 40% monthly credit.
 
 6. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary algorithms, driver data, pricing models, and business strategies.
 
-7. **Data Security:** Insurellm maintains SOC 2 Type II compliance, annual penetration testing, and comprehensive cyber insurance coverage.
+7. **Data Security:** 1topcloudllm maintains SOC 2 Type II compliance, annual penetration testing, and comprehensive cyber insurance coverage.
 
 ---
 
@@ -114,7 +114,7 @@ DriveSmart Insurance will receive the complete Carllm Enterprise suite:
 
 ## Support
 
-Insurellm commits to comprehensive Enterprise-level support for DriveSmart Insurance:
+1topcloudllm commits to comprehensive Enterprise-level support for DriveSmart Insurance:
 
 1. **Dedicated Success Team:**
    - Named VP-level executive sponsor with quarterly reviews
@@ -184,7 +184,7 @@ Insurellm commits to comprehensive Enterprise-level support for DriveSmart Insur
 _________________________________
 **Jennifer Rodriguez**
 **Title**: Chief Executive Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: March 20, 2025
 
 _________________________________

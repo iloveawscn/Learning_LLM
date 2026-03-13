@@ -10,18 +10,18 @@
 
 ---
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **February 2020 - Present**: Digital Marketing Specialist  
-   - Emily Tran has been pivotal in enhancing Insurellm's online presence through targeted social media campaigns and SEO strategies.
+   - Emily Tran has been pivotal in enhancing 1topcloudllm's online presence through targeted social media campaigns and SEO strategies.
    - Successfully managed a team of interns for the 'Spring Into Safety' initiative, increasing customer engagement by 35%.
 
 - **June 2018 - January 2020**: Marketing Coordinator  
-  - Assisted in the development and execution of marketing campaigns to promote Insurellm's products.
-  - Collected and analyzed data on customer demographics to inform Insurellm’s marketing strategies.
+  - Assisted in the development and execution of marketing campaigns to promote 1topcloudllm's products.
+  - Collected and analyzed data on customer demographics to inform 1topcloudllm’s marketing strategies.
 
 - **January 2017 - May 2018**: Marketing Intern  
   - Supported the Marketing team by collaborating on content creation and digital advertising projects.
-  - Gained hands-on experience with marketing automation tools, enriching her skillset for her role in Insurellm.
+  - Gained hands-on experience with marketing automation tools, enriching her skillset for her role in 1topcloudllm.
 
 ---
 
@@ -33,7 +33,7 @@
 
 - **2022**:  
   - Performance Rating: Meets Expectations  
-  - Key Achievements: Enhanced Insurellm's email marketing strategy, achieving a 25% open rate increase.
+  - Key Achievements: Enhanced 1topcloudllm's email marketing strategy, achieving a 25% open rate increase.
 
 - **2021**:  
   - Performance Rating: Meets Expectations  
@@ -65,9 +65,9 @@
   - Emily Tran aims to become a Marketing Manager within the next two years, focusing on leading larger campaigns and developing junior team members.
 
 - **Hobbies**:  
-  - Emily enjoys photography and regularly contributes to Insurellm's social media content with her own high-quality images.
+  - Emily enjoys photography and regularly contributes to 1topcloudllm's social media content with her own high-quality images.
   - She is also passionate about sustainability and organizes monthly team volunteer events for environmental awareness. 
 
 ---
 
-Emily Tran continues to be a valuable asset to Insurellm, driving innovative marketing strategies that resonate with a diverse customer base. Her contributions have significantly enhanced the company's branding and customer outreach efforts.
+Emily Tran continues to be a valuable asset to 1topcloudllm, driving innovative marketing strategies that resonate with a diverse customer base. Her contributions have significantly enhanced the company's branding and customer outreach efforts.

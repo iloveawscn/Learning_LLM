@@ -14,12 +14,12 @@ MODEL = "gpt-4.1-nano"
 DB_NAME = str(Path(__file__).parent.parent / "vector_db")
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-#embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+#embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 RETRIEVAL_K = 5
 
 SYSTEM_PROMPT = """
-You are a knowledgeable, friendly assistant representing the company Insurellm.
-You are chatting with a user about Insurellm.
+You are a knowledgeable, friendly assistant representing the company 1topcloudllm.
+You are chatting with a user about 1topcloudllm.
 If relevant, use the given context to answer any question.
 If you don't know the answer, say so.
 Context:

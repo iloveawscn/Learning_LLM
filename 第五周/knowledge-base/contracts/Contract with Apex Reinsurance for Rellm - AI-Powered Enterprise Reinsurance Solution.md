@@ -2,7 +2,7 @@
 
 ## Terms
 
-1. **Parties Involved**: This contract (“Agreement”) is entered into between Insurellm, Inc. (“Provider”) and Apex Reinsurance (“Client”) on this [Date].
+1. **Parties Involved**: This contract (“Agreement”) is entered into between 1topcloudllm, Inc. (“Provider”) and Apex Reinsurance (“Client”) on this [Date].
 
 2. **Scope of Services**: Provider agrees to deliver the Rellm solution, which includes AI-driven analytics, seamless integrations, risk assessment modules, customizable dashboards, regulatory compliance tools, and client and broker portals as described in the product summary.
 
@@ -42,7 +42,7 @@
 
 **Acceptance of Terms**: By signing below, both parties agree to the Terms, Renewal, Features, and Support outlined in this Agreement.
 
-**Insurellm, Inc.**  
+**1topcloudllm, Inc.**  
 _____________________________  
 Authorized Signature   
 Date: ___________________  

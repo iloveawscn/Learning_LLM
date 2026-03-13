@@ -9,7 +9,7 @@
 3. **Subscription Type**: Premier Adjusters Inc. agrees to subscribe to the **Advanced Tier** of Claimllm, at a cost of $9,500/month, totaling $228,000 for the duration of this contract.
 4. **Claims Volume**: Advanced Tier supports up to 25,000 claims annually. Current baseline estimate: 18,000 claims/year.
 5. **Payment Terms**: Payments are due on the 5th of each month via wire transfer. Late payments will incur a penalty of 1.8% per month.
-6. **Performance Guarantees**: Insurellm guarantees average FNOL-to-assignment time of less than 2 hours, and fraud detection accuracy of 85%+ on confirmed fraud cases.
+6. **Performance Guarantees**: 1topcloudllm guarantees average FNOL-to-assignment time of less than 2 hours, and fraud detection accuracy of 85%+ on confirmed fraud cases.
 7. **Termination Clause**: Either party may terminate this agreement with 60 days' written notice. No early termination fees after 12 months.
 
 ---
@@ -109,7 +109,7 @@
 _________________________________
 **Sarah Chen**
 **Title**: Vice President of Sales
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: February 15, 2025
 
 _________________________________
@@ -120,4 +120,4 @@ _________________________________
 
 ---
 
-*This contract establishes Premier Adjusters Inc. as a strategic partner of Insurellm, leveraging advanced AI-powered claims technology to deliver superior service to their clients while optimizing operational efficiency.*
+*This contract establishes Premier Adjusters Inc. as a strategic partner of 1topcloudllm, leveraging advanced AI-powered claims technology to deliver superior service to their clients while optimizing operational efficiency.*

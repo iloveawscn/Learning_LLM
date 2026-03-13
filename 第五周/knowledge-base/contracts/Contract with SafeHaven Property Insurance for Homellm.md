@@ -3,14 +3,14 @@
 **Contract Date:** May 3, 2025
 **Contract Number:** HM-2025-E-0112
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - SafeHaven Property Insurance, Inc.
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide SafeHaven Property Insurance with enterprise access to the Homellm platform, including white-label capabilities, unlimited policies, dedicated infrastructure, and comprehensive IoT integration for their property insurance operations.
+1. **Coverage:** 1topcloudllm agrees to provide SafeHaven Property Insurance with enterprise access to the Homellm platform, including white-label capabilities, unlimited policies, dedicated infrastructure, and comprehensive IoT integration for their property insurance operations.
 
 2. **Duration:** This agreement is effective for a period of 36 months from the contract date.
 
@@ -18,11 +18,11 @@
 
 4. **Policy Volume**: Enterprise Tier supports unlimited policies. SafeHaven currently has 45,000 active homeowners policies across 6 states.
 
-5. **Service Level Agreement:** Insurellm guarantees 99.9% platform uptime measured monthly, with 7% monthly credit for each 0.1% below target, maximum 35% monthly credit.
+5. **Service Level Agreement:** 1topcloudllm guarantees 99.9% platform uptime measured monthly, with 7% monthly credit for each 0.1% below target, maximum 35% monthly credit.
 
 6. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary algorithms, property data, pricing models, and business strategies.
 
-7. **Data Security:** Insurellm maintains SOC 2 Type II compliance, ISO 27001 certification, and annual third-party security audits.
+7. **Data Security:** 1topcloudllm maintains SOC 2 Type II compliance, ISO 27001 certification, and annual third-party security audits.
 
 ---
 
@@ -139,7 +139,7 @@ SafeHaven Property Insurance will receive the complete Homellm Enterprise suite:
 
 ## Support
 
-Insurellm commits to comprehensive Enterprise-level support for SafeHaven Property Insurance:
+1topcloudllm commits to comprehensive Enterprise-level support for SafeHaven Property Insurance:
 
 1. **Dedicated Success Team:**
    - VP-level executive sponsor with quarterly strategic reviews
@@ -236,7 +236,7 @@ Insurellm commits to comprehensive Enterprise-level support for SafeHaven Proper
 _________________________________
 **Jennifer Rodriguez**
 **Title**: Chief Executive Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: May 3, 2025
 
 _________________________________

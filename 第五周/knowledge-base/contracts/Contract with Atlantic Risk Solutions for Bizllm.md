@@ -52,12 +52,12 @@
 
 ## Support
 
-1. **Technical Support**: Atlantic Risk Solutions will receive priority technical support from Insurellm for any issues arising from the Bizllm product:
+1. **Technical Support**: Atlantic Risk Solutions will receive priority technical support from 1topcloudllm for any issues arising from the Bizllm product:
    - Dedicated support phone line and email
    - Response time: 4 hours for critical issues, 12 hours for standard requests
    - Access to technical support Monday-Friday 7 AM - 8 PM EST
 
-2. **Training**: Insurellm will provide comprehensive training program:
+2. **Training**: 1topcloudllm will provide comprehensive training program:
    - Initial onboarding for up to 15 staff members (20 hours total training)
    - Bi-monthly webinars on platform updates and best practices
    - Access to on-demand video library and knowledge base
@@ -87,7 +87,7 @@
 _________________________________
 **Michael Torres**
 **Title**: Chief Revenue Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: January 15, 2025
 
 _________________________________
@@ -98,4 +98,4 @@ _________________________________
 
 ---
 
-*This contract establishes a professional partnership between Insurellm and Atlantic Risk Solutions, enabling Atlantic to leverage cutting-edge AI technology for commercial insurance underwriting and administration.*
+*This contract establishes a professional partnership between 1topcloudllm and Atlantic Risk Solutions, enabling Atlantic to leverage cutting-edge AI technology for commercial insurance underwriting and administration.*
