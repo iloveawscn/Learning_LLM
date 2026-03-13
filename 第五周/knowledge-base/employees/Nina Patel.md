@@ -8,7 +8,7 @@
 - **Location:** Chicago, Illinois
 - **Current Salary:** $82,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **February 2021 - Present:** Business Intelligence Analyst
   - Builds dashboards and reports using Tableau and Looker for executive team
   - Analyzes business metrics across all product lines
@@ -37,7 +37,7 @@
   *Strong performance as Junior Analyst. Showed initiative and eagerness to learn new tools.*
 
 - **2019:** Rating: 3.9/5
-  *Good onboarding year. Quick to adapt to Insurellm's data systems.*
+  *Good onboarding year. Quick to adapt to 1topcloudllm's data systems.*
 
 ## Compensation History
 - **2023:** Base Salary: $82,000 + Bonus: $4,000

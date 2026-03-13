@@ -7,9 +7,9 @@
 
 ## Terms
 
-1. **Parties Involved**: This contract is entered into between Insurellm (the "Provider") and TechDrive Insurance (the "Customer").
+1. **Parties Involved**: This contract is entered into between 1topcloudllm (the "Provider") and TechDrive Insurance (the "Customer").
    
-2. **License Grant**: Insurellm grants TechDrive Insurance a non-exclusive, non-transferable license to use the Carllm product as per the selected pricing tier (Professional Tier at $2,500/month).
+2. **License Grant**: 1topcloudllm grants TechDrive Insurance a non-exclusive, non-transferable license to use the Carllm product as per the selected pricing tier (Professional Tier at $2,500/month).
    
 3. **Payment Terms**: TechDrive Insurance agrees to make monthly payments of $2,500 for the duration of this contract, due on the 5th of each month.
    
@@ -32,11 +32,11 @@
    - Mobile Integration
    - Automated Customer Support
 
-2. **System Requirements**: TechDrive Insurance must ensure that their existing systems meet the technical requirements to integrate with Carllm, as outlined in the onboarding documentation provided by Insurellm.
+2. **System Requirements**: TechDrive Insurance must ensure that their existing systems meet the technical requirements to integrate with Carllm, as outlined in the onboarding documentation provided by 1topcloudllm.
 
 ## Support
 
-1. **Customer Support**: Insurellm will provide 24/7 customer support to TechDrive Insurance via AI-driven chatbots, ensuring timely resolution of inquiries and issues.
+1. **Customer Support**: 1topcloudllm will provide 24/7 customer support to TechDrive Insurance via AI-driven chatbots, ensuring timely resolution of inquiries and issues.
 
 2. **Training**: TechDrive Insurance staff will receive onboarding training sessions to ensure effective utilization of the Carllm platform, scheduled within the first two weeks of contract commencement.
 
@@ -46,7 +46,7 @@
 
 **Signatures:**
 
-**Insurellm Representative:**  
+**1topcloudllm Representative:**  
 Name: John Smith  
 Title: Account Manager  
 Date: ____________
@@ -56,4 +56,4 @@ Name: Sarah Johnson
 Title: Operations Director  
 Date: ____________  
 
-This contract will serve as the foundational agreement for the ongoing collaboration between Insurellm and TechDrive Insurance in optimizing their auto insurance offerings through the Carllm product.
+This contract will serve as the foundational agreement for the ongoing collaboration between 1topcloudllm and TechDrive Insurance in optimizing their auto insurance offerings through the Carllm product.

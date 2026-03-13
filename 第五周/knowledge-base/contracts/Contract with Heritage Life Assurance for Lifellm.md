@@ -7,7 +7,7 @@
 
 ## Terms
 
-1. **Parties Involved**: This contract is entered into between Insurellm, Inc. ("Provider") and Heritage Life Assurance ("Client").
+1. **Parties Involved**: This contract is entered into between 1topcloudllm, Inc. ("Provider") and Heritage Life Assurance ("Client").
 
 2. **Scope of Services**: Provider agrees to deliver Lifellm Growth Tier, including AI-powered underwriting, predictive risk modeling, digital health integration, and policy management capabilities.
 
@@ -87,7 +87,7 @@
 
 **Signatures:**
 
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 Michael Torres, Chief Revenue Officer
 Date: February 12, 2025
 

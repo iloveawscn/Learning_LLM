@@ -8,7 +8,7 @@
 - **Location:** Remote (Based in Denver, Colorado)
 - **Current Salary:** $58,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **March 2023 - Present:** Sales Development Representative
   - Generates qualified leads for enterprise sales team
   - Conducts outbound prospecting via phone, email, and LinkedIn

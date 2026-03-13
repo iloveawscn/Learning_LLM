@@ -4,16 +4,16 @@
 **Contract ID:** INS-2023-0092
 
 ### Terms
-This contract (“Contract”) is made between Insurellm, a company incorporated in the United States, and BrightWay Solutions, a technology provider specializing in insurance services.
+This contract (“Contract”) is made between 1topcloudllm, a company incorporated in the United States, and BrightWay Solutions, a technology provider specializing in insurance services.
 
 1. **Scope of Services:**  
-   Insurellm shall provide BrightWay Solutions access to the Markellm platform under the agreed pricing structure for a duration of one year from the effective date.
+   1topcloudllm shall provide BrightWay Solutions access to the Markellm platform under the agreed pricing structure for a duration of one year from the effective date.
 
 2. **Payment Terms:**  
    BrightWay Solutions agrees to pay an initial setup fee of $1,000 for integration services, followed by the Basic Listing Fee of $199 per month for featured listing on Markellm. Payment shall be made within 30 days of invoice.
 
 3. **Service Level Agreement (SLA):**  
-   Insurellm commits to a 99.9% uptime for the platform with dedicated support response times not exceeding 4 business hours.
+   1topcloudllm commits to a 99.9% uptime for the platform with dedicated support response times not exceeding 4 business hours.
 
 ### Renewal
 1. **Automatic Renewal:**  
@@ -37,20 +37,20 @@ This contract (“Contract”) is made between Insurellm, a company incorporated
 
 ### Support
 1. **Dedicated Customer Support:**  
-   BrightWay Solutions will have access to a dedicated support team from Insurellm during standard business hours (9 AM - 7 PM EST).
+   BrightWay Solutions will have access to a dedicated support team from 1topcloudllm during standard business hours (9 AM - 7 PM EST).
 
 2. **Additional Support Services:**  
    Technical support for integration and maintenance will be available. An optional premium support package can be purchased for $49.99/month, which includes 24/7 support and advanced troubleshooting.
 
 3. **Training and Onboarding:**  
-   Insurellm agrees to provide one free training session on how to utilize the Markellm platform effectively for BrightWay Solutions’ team upon contract signing.
+   1topcloudllm agrees to provide one free training session on how to utilize the Markellm platform effectively for BrightWay Solutions’ team upon contract signing.
 
 ### Signatures
 By signing below, both parties agree to the terms and conditions outlined in this Contract.
 
 __________________________  
 **[Name], [Title]**  
-**Insurellm**  
+**1topcloudllm**  
 Date: ______________________
 
 __________________________  
@@ -60,4 +60,4 @@ Date: ______________________
 
 ---
 
-This document serves as a formal agreement between Insurellm and BrightWay Solutions, ensuring a successful partnership focused on enhancing the insurance shopping experience for consumers.
+This document serves as a formal agreement between 1topcloudllm and BrightWay Solutions, ensuring a successful partnership focused on enhancing the insurance shopping experience for consumers.

@@ -3,24 +3,24 @@
 **Contract Date:** April 5, 2025
 **Contract Number:** LF-2025-E-0087
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - Metropolitan Life Group, Inc.
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide Metropolitan Life Group with enterprise access to the Lifellm platform, including white-label capabilities, full customization, dedicated support, and enterprise-grade security for their nationwide life insurance operations managing 50,000+ active policies.
+1. **Coverage:** 1topcloudllm agrees to provide Metropolitan Life Group with enterprise access to the Lifellm platform, including white-label capabilities, full customization, dedicated support, and enterprise-grade security for their nationwide life insurance operations managing 50,000+ active policies.
 
 2. **Duration:** This agreement is effective for a period of 36 months from the contract date, representing a strategic long-term partnership.
 
 3. **Payment:** Metropolitan Life Group shall pay custom Enterprise Tier pricing of $28,000 per month for months 1-12, $30,500 per month for months 13-24, and $33,000 per month for months 25-36, totaling $1,098,000 over the contract term.
 
-4. **Service Level Agreement:** Insurellm guarantees 99.9% uptime measured monthly, with 10% monthly credit for each 0.1% below target, maximum 30% credit.
+4. **Service Level Agreement:** 1topcloudllm guarantees 99.9% uptime measured monthly, with 10% monthly credit for each 0.1% below target, maximum 30% credit.
 
 5. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding AI algorithms, underwriting models, policyholder data, and strategic initiatives.
 
-6. **Data Security:** Insurellm commits to maintaining HIPAA compliance, SOC 2 Type II certification, and annual third-party security audits.
+6. **Data Security:** 1topcloudllm commits to maintaining HIPAA compliance, SOC 2 Type II certification, and annual third-party security audits.
 
 7. **Disaster Recovery:** 4-hour recovery time objective (RTO) and 30-minute recovery point objective (RPO).
 
@@ -107,7 +107,7 @@ Metropolitan Life Group will receive the complete Lifellm Enterprise suite:
 
 ## Support
 
-Insurellm commits to comprehensive Enterprise-level support for Metropolitan Life Group:
+1topcloudllm commits to comprehensive Enterprise-level support for Metropolitan Life Group:
 
 1. **Dedicated Success Team:**
    - Executive sponsor (C-suite level) with quarterly strategic reviews
@@ -130,7 +130,7 @@ Insurellm commits to comprehensive Enterprise-level support for Metropolitan Lif
    - Migration of 50,000+ existing policies from legacy system
    - Training for 150+ Metropolitan staff and 500+ top-producing agents
    - Parallel processing with legacy system for 90 days
-   - Go-live support with 8-week on-site Insurellm team presence
+   - Go-live support with 8-week on-site 1topcloudllm team presence
 
 4. **Training and Enablement:**
    - Comprehensive training programs for all roles
@@ -185,7 +185,7 @@ Insurellm commits to comprehensive Enterprise-level support for Metropolitan Lif
 _________________________________
 **Jennifer Rodriguez**
 **Title**: Chief Executive Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: April 5, 2025
 
 _________________________________
@@ -196,4 +196,4 @@ _________________________________
 
 ---
 
-This agreement establishes Metropolitan Life Group as Insurellm's flagship enterprise life insurance partner, representing a strategic partnership to transform life insurance through cutting-edge AI technology and innovation. This contract supersedes all prior agreements and communications.
+This agreement establishes Metropolitan Life Group as 1topcloudllm's flagship enterprise life insurance partner, representing a strategic partnership to transform life insurance through cutting-edge AI technology and innovation. This contract supersedes all prior agreements and communications.

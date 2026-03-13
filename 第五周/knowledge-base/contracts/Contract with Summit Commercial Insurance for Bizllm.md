@@ -3,14 +3,14 @@
 **Contract Date:** March 15, 2025
 **Contract Number:** BZ-2025-0091
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - Summit Commercial Insurance, LLC
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide Summit Commercial Insurance with access to the Bizllm platform, enabling comprehensive commercial insurance underwriting and policy administration across multiple lines including general liability, professional liability, and property coverage.
+1. **Coverage:** 1topcloudllm agrees to provide Summit Commercial Insurance with access to the Bizllm platform, enabling comprehensive commercial insurance underwriting and policy administration across multiple lines including general liability, professional liability, and property coverage.
 
 2. **Duration:** This agreement is effective for a period of 18 months from the contract date, after which it will automatically renew unless terminated by either party with a written 45-day notice.
 
@@ -18,9 +18,9 @@
 
 4. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary information, trade secrets, and customer data disclosed during the execution of this contract.
 
-5. **Liability:** Insurellm's liability under this agreement shall be limited to direct damages and shall not exceed the total fees paid by Summit Commercial Insurance in the last 12 months prior to the date of the claim.
+5. **Liability:** 1topcloudllm's liability under this agreement shall be limited to direct damages and shall not exceed the total fees paid by Summit Commercial Insurance in the last 12 months prior to the date of the claim.
 
-6. **Data Security:** Insurellm commits to maintaining industry-standard encryption and security protocols to protect all client data processed through the Bizllm platform.
+6. **Data Security:** 1topcloudllm commits to maintaining industry-standard encryption and security protocols to protect all client data processed through the Bizllm platform.
 
 ---
 
@@ -50,13 +50,13 @@ Summit Commercial Insurance will receive the following features with Bizllm Busi
 
 ## Support
 
-Insurellm commits to providing comprehensive support to Summit Commercial Insurance, which includes:
+1topcloudllm commits to providing comprehensive support to Summit Commercial Insurance, which includes:
 
 1. **Onboarding:** A 3-week intensive training program for up to 15 Summit Commercial staff members to ensure effective use of Bizllm, including hands-on workshops and certification.
 
 2. **Dedicated Support Team:** A dedicated account manager and technical support team available Monday-Friday 7 AM to 7 PM EST, with emergency support available 24/7.
 
-3. **Regular Updates:** Insurellm will provide quarterly platform updates and enhancements, including new features, security improvements, and regulatory compliance updates.
+3. **Regular Updates:** 1topcloudllm will provide quarterly platform updates and enhancements, including new features, security improvements, and regulatory compliance updates.
 
 4. **Integration Assistance:** Technical support for integrating Bizllm with Summit's existing policy administration and claims management systems.
 
@@ -69,7 +69,7 @@ Insurellm commits to providing comprehensive support to Summit Commercial Insura
 _________________________________
 **Michael Torres**
 **Title**: Chief Revenue Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 
 _________________________________
 **Patricia Lawson**

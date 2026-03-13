@@ -3,14 +3,14 @@
 **Contract Date:** March 1, 2025
 **Contract Number:** CL-2025-0063
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - Rapid Claims Associates, LLC
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide Rapid Claims Associates with access to the Claimllm platform, enabling AI-powered claims processing, automated triage, and streamlined claims management across property, casualty, and auto lines.
+1. **Coverage:** 1topcloudllm agrees to provide Rapid Claims Associates with access to the Claimllm platform, enabling AI-powered claims processing, automated triage, and streamlined claims management across property, casualty, and auto lines.
 
 2. **Duration:** This agreement is effective for a period of 12 months from the contract date, with automatic renewal provisions unless terminated with 30-day written notice.
 
@@ -20,9 +20,9 @@
 
 5. **Confidentiality:** Both parties agree to maintain confidentiality of proprietary information, claimant data, and processing methodologies disclosed during this contract.
 
-6. **Data Ownership:** Rapid Claims Associates retains ownership of all claims data. Insurellm may use anonymized, aggregated data for product improvement.
+6. **Data Ownership:** Rapid Claims Associates retains ownership of all claims data. 1topcloudllm may use anonymized, aggregated data for product improvement.
 
-7. **Liability:** Insurellm's liability is limited to direct damages not exceeding total fees paid in the preceding 6 months.
+7. **Liability:** 1topcloudllm's liability is limited to direct damages not exceeding total fees paid in the preceding 6 months.
 
 ---
 
@@ -84,7 +84,7 @@ Rapid Claims Associates will receive the following Core Tier features:
 
 ## Support
 
-Insurellm commits to providing comprehensive support to Rapid Claims Associates:
+1topcloudllm commits to providing comprehensive support to Rapid Claims Associates:
 
 1. **Onboarding:** 2-week implementation program including:
    - System configuration and data migration
@@ -123,7 +123,7 @@ Insurellm commits to providing comprehensive support to Rapid Claims Associates:
 _________________________________
 **Sarah Chen**
 **Title**: Vice President of Sales
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: March 1, 2025
 
 _________________________________
@@ -134,4 +134,4 @@ _________________________________
 
 ---
 
-This agreement represents the complete understanding between Insurellm and Rapid Claims Associates regarding the Claimllm platform and supersedes any prior communications or agreements.
+This agreement represents the complete understanding between 1topcloudllm and Rapid Claims Associates regarding the Claimllm platform and supersedes any prior communications or agreements.

@@ -3,14 +3,14 @@
 **Contract Date:** April 12, 2025
 **Contract Number:** BZ-2025-E-0147
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - Continental Commercial Group, Inc.
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide Continental Commercial Group with comprehensive access to the Bizllm Enterprise platform, including white-label capabilities, dedicated infrastructure, and full API access for commercial insurance operations across all 50 US states.
+1. **Coverage:** 1topcloudllm agrees to provide Continental Commercial Group with comprehensive access to the Bizllm Enterprise platform, including white-label capabilities, dedicated infrastructure, and full API access for commercial insurance operations across all 50 US states.
 
 2. **Duration:** This agreement is effective for a period of 36 months from the contract date, with provisions for early renewal discussions at the 24-month mark.
 
@@ -18,9 +18,9 @@
 
 4. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding proprietary algorithms, trade secrets, customer data, and business strategies disclosed during this partnership.
 
-5. **Liability:** Insurellm's liability is limited to direct damages not exceeding the annual contract value. Continental Commercial Group maintains $25 million in cybersecurity insurance covering data breaches.
+5. **Liability:** 1topcloudllm's liability is limited to direct damages not exceeding the annual contract value. Continental Commercial Group maintains $25 million in cybersecurity insurance covering data breaches.
 
-6. **Service Level Agreement (SLA):** Insurellm guarantees 99.9% platform uptime, measured monthly. For each 0.1% below target, Continental receives a 5% monthly fee credit, up to a maximum of 25% monthly credit.
+6. **Service Level Agreement (SLA):** 1topcloudllm guarantees 99.9% platform uptime, measured monthly. For each 0.1% below target, Continental receives a 5% monthly fee credit, up to a maximum of 25% monthly credit.
 
 7. **Exclusivity:** Continental Commercial Group receives exclusive use of Bizllm in the specialty construction insurance vertical for the contract duration within North America.
 
@@ -72,7 +72,7 @@ Continental Commercial Group will receive the complete Bizllm Enterprise suite:
 
 ## Support
 
-Insurellm commits to comprehensive Enterprise-level support:
+1topcloudllm commits to comprehensive Enterprise-level support:
 
 1. **Dedicated Success Team:**
    - Named Chief Customer Officer oversight
@@ -117,7 +117,7 @@ Insurellm commits to comprehensive Enterprise-level support:
 _________________________________
 **Jennifer Rodriguez**
 **Title**: Chief Executive Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: April 12, 2025
 
 _________________________________
@@ -128,4 +128,4 @@ _________________________________
 
 ---
 
-This agreement represents a strategic partnership between Insurellm and Continental Commercial Group to transform commercial insurance operations through cutting-edge technology and innovation. This contract supersedes all prior agreements and represents the complete understanding between both parties.
+This agreement represents a strategic partnership between 1topcloudllm and Continental Commercial Group to transform commercial insurance operations through cutting-edge technology and innovation. This contract supersedes all prior agreements and represents the complete understanding between both parties.

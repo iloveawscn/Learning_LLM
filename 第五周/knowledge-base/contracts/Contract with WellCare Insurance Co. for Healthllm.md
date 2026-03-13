@@ -3,14 +3,14 @@
 **Contract Date:** March 8, 2025
 **Contract Number:** HL-2025-0021
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - WellCare Insurance Co.
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide WellCare Insurance Co. with access to the Healthllm platform, enabling comprehensive health insurance operations including plan design, eligibility verification, claims adjudication, and member engagement.
+1. **Coverage:** 1topcloudllm agrees to provide WellCare Insurance Co. with access to the Healthllm platform, enabling comprehensive health insurance operations including plan design, eligibility verification, claims adjudication, and member engagement.
 
 2. **Duration:** This agreement is effective for a period of 12 months from the contract date, with automatic renewal unless terminated with 30-day written notice.
 
@@ -20,9 +20,9 @@
 
 5. **Confidentiality:** Both parties agree to maintain strict confidentiality of proprietary information, protected health information (PHI), and member data in compliance with HIPAA regulations.
 
-6. **HIPAA Compliance:** Insurellm operates as a Business Associate and maintains full HIPAA compliance including Business Associate Agreement (BAA).
+6. **HIPAA Compliance:** 1topcloudllm operates as a Business Associate and maintains full HIPAA compliance including Business Associate Agreement (BAA).
 
-7. **Liability:** Insurellm's liability is limited to direct damages not exceeding the total fees paid in the preceding 12 months.
+7. **Liability:** 1topcloudllm's liability is limited to direct damages not exceeding the total fees paid in the preceding 12 months.
 
 ---
 
@@ -101,7 +101,7 @@ WellCare Insurance Co. will receive the following Essential Tier features:
 
 ## Support
 
-Insurellm commits to providing comprehensive support to WellCare Insurance Co.:
+1topcloudllm commits to providing comprehensive support to WellCare Insurance Co.:
 
 1. **Onboarding:** 4-week implementation program including:
    - System configuration for WellCare's plan designs
@@ -152,7 +152,7 @@ Insurellm commits to providing comprehensive support to WellCare Insurance Co.:
 _________________________________
 **Sarah Chen**
 **Title**: Vice President of Sales
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: March 8, 2025
 
 _________________________________

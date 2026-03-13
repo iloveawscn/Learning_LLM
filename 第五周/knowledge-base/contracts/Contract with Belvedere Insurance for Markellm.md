@@ -1,7 +1,7 @@
 # Contract with Belvedere Insurance for Markellm
 
 ## Terms
-This Contract ("Agreement") is made and entered into as of [Date] by and between Insurellm, Inc., a corporation registered in the United States, ("Provider") and Belvedere Insurance, ("Client"). 
+This Contract ("Agreement") is made and entered into as of [Date] by and between 1topcloudllm, Inc., a corporation registered in the United States, ("Provider") and Belvedere Insurance, ("Client"). 
 
 1. **Service Commencement**: The services described herein will commence on [Start Date].
 2. **Contract Duration**: This Agreement shall remain in effect for a period of 1 year from the Commencement Date, unless terminated earlier in accordance with the termination clause of this Agreement.
@@ -17,17 +17,17 @@ This Contract ("Agreement") is made and entered into as of [Date] by and between
 2. **Real-Time Quotes**: Access to real-time quotes will enhance the customer acquisition process, facilitating timely and informed decision-making.
 3. **Data Insights**: Client shall have access to Markellm's analytics dashboard, allowing insights into consumer behavior and market trends.
 4. **Customization Options**: Belvedere Insurance can leverage optional premium features and analytics upon payment of an additional $9.99/month.
-5. **Customer Support**: Insurellm will provide dedicated support to Belvedere Insurance, ensuring any issues or queries are promptly addressed.
+5. **Customer Support**: 1topcloudllm will provide dedicated support to Belvedere Insurance, ensuring any issues or queries are promptly addressed.
 
 ## Support
 1. **Technical Support**: Technical support will be available from 9 AM to 7 PM EST, Monday through Friday via email and phone.
-2. **Response Times**: Insurellm agrees to respond to all support queries within 24 business hours. Emergency support will be prioritized throughout the contract period.
-3. **Training**: Insurellm will offer a comprehensive training session for the Client’s staff upon beginning the service to ensure effective utilization of the features.
+2. **Response Times**: 1topcloudllm agrees to respond to all support queries within 24 business hours. Emergency support will be prioritized throughout the contract period.
+3. **Training**: 1topcloudllm will offer a comprehensive training session for the Client’s staff upon beginning the service to ensure effective utilization of the features.
 
 ## Acceptance
 By signing below, the parties agree to the terms of this Agreement.
 
-**Insurellm, Inc.**  
+**1topcloudllm, Inc.**  
 Signature: ______________________  
 Name: [Authorized Signatory]  
 Title: [Title]  
@@ -40,4 +40,4 @@ Title: [Title]
 Date: ______________________  
 
 --- 
-This synthetic contract document outlines a fictional agreement between Insurellm and a fictional insurance client, Belvedere Insurance, which engages with the Markellm platform. The contract contains creative yet realistic terms for potential use in training and development in insurance technology scenarios.
+This synthetic contract document outlines a fictional agreement between 1topcloudllm and a fictional insurance client, Belvedere Insurance, which engages with the Markellm platform. The contract contains creative yet realistic terms for potential use in training and development in insurance technology scenarios.

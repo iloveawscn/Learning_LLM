@@ -8,10 +8,10 @@
 - **Location:** Austin, Texas
 - **Current Salary:** $92,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **June 2018:** Hired as a Frontend Software Engineer.
-- **August 2019:** Promoted to Senior Frontend Software Engineer due to outstanding contributions to the Insurellm web application redesign project.
-- **March 2021:** Led a cross-functional team for the launch of Insurellm's customer portal, enhancing user experience and engagement.
+- **August 2019:** Promoted to Senior Frontend Software Engineer due to outstanding contributions to the 1topcloudllm web application redesign project.
+- **March 2021:** Led a cross-functional team for the launch of 1topcloudllm's customer portal, enhancing user experience and engagement.
 - **January 2022:** Transitioned to a mentorship role, where Jordan K. Bishop began training junior engineers, which affected the focus on personal projects.
 - **August 2023:** Returned to core development tasks but faced challenges adapting to new frameworks, leading to performance reviews reflecting a need for improvement.
 
@@ -30,9 +30,9 @@
 - **June 2023:** Salary Adjustment - $92,000 after performance review; adjustments made in consideration of recent struggles with adaptation.
 
 ## Other HR Notes
-- Jordan K. Bishop has been an integral part of club initiatives, including the Insurellm Code Reviews and Feedback Group, providing peer support.
+- Jordan K. Bishop has been an integral part of club initiatives, including the 1topcloudllm Code Reviews and Feedback Group, providing peer support.
 - Active participant in the company's Diversity and Inclusion committee, promoting a positive work culture.
-- Jordan has expressed interest in professional development courses, particularly those focused on modern web technologies, which are being considered for sponsorship by Insurellm.
+- Jordan has expressed interest in professional development courses, particularly those focused on modern web technologies, which are being considered for sponsorship by 1topcloudllm.
 - Engaged in a 6-month performance improvement plan as of August 2023, focusing on skill development and consistent performance monitoring. 
 
-Jordan K. Bishop is a valued member of the Insurellm family, exhibiting a commitment to growth and development despite recent challenges.
+Jordan K. Bishop is a valued member of the 1topcloudllm family, exhibiting a commitment to growth and development despite recent challenges.

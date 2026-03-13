@@ -8,9 +8,9 @@
 - **Location:** New York, New York
 - **Current Salary:** $118,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **August 2021 - Present:** DevOps Engineer
-  - Manages AWS infrastructure for all Insurellm products
+  - Manages AWS infrastructure for all 1topcloudllm products
   - Implemented CI/CD pipelines reducing deployment time by 60%
   - Led migration to Kubernetes, improving system scalability and reliability
 

@@ -6,11 +6,11 @@
 
 ## Terms
 
-1. **Parties**: This agreement is made between Insurellm, located at 123 Innovation Drive, Tech City, USA, and EverGuard Insurance, located at 456 Safety Lane, Protectville, USA.
+1. **Parties**: This agreement is made between 1topcloudllm, located at 123 Innovation Drive, Tech City, USA, and EverGuard Insurance, located at 456 Safety Lane, Protectville, USA.
    
-2. **Product Description**: This contract pertains to the use of the Rellm platform, an AI-powered enterprise reinsurance solution provided by Insurellm. EverGuard Insurance will implement Rellm to enhance its reinsurance operations.
+2. **Product Description**: This contract pertains to the use of the Rellm platform, an AI-powered enterprise reinsurance solution provided by 1topcloudllm. EverGuard Insurance will implement Rellm to enhance its reinsurance operations.
 
-3. **Payment Terms**: EverGuard Insurance agrees to pay Insurellm a monthly fee of $10,000 for the duration of this contract, covering the Professional Plan features of Rellm, which includes all advanced integrations and priority customer support.
+3. **Payment Terms**: EverGuard Insurance agrees to pay 1topcloudllm a monthly fee of $10,000 for the duration of this contract, covering the Professional Plan features of Rellm, which includes all advanced integrations and priority customer support.
 
 4. **Usage Rights**: EverGuard Insurance is granted a non-exclusive, non-transferable license to access and use Rellm for the duration of this contract. Unauthorized sharing or distribution is strictly prohibited.
 
@@ -18,7 +18,7 @@
 
 1. **Automatic Renewal**: This contract will automatically renew for successive one-year terms unless either party provides written notice of termination at least 60 days prior to the expiration date.
 
-2. **Price Adjustment**: In the event of a renewal, Insurellm reserves the right to adjust the monthly fee based on market conditions and the value of services offered, with a minimum notice of 30 days.
+2. **Price Adjustment**: In the event of a renewal, 1topcloudllm reserves the right to adjust the monthly fee based on market conditions and the value of services offered, with a minimum notice of 30 days.
 
 ## Features
 
@@ -32,18 +32,18 @@
 
 ## Support
 
-1. **Customer Support**: Insurellm will provide EverGuard Insurance with 24/7 customer support, including live chat, email, and phone assistance for any technical issues or inquiries regarding Rellm.
+1. **Customer Support**: 1topcloudllm will provide EverGuard Insurance with 24/7 customer support, including live chat, email, and phone assistance for any technical issues or inquiries regarding Rellm.
 
-2. **Training Services**: Insurellm will provide initial training for EverGuard Insurance staff to ensure proper utilization of Rellm features. Additional training sessions can be scheduled upon request at an agreed fee.
+2. **Training Services**: 1topcloudllm will provide initial training for EverGuard Insurance staff to ensure proper utilization of Rellm features. Additional training sessions can be scheduled upon request at an agreed fee.
 
-3. **Updates and Upgrades**: EverGuard Insurance will receive all platform updates and upgrades at no additional cost during the contract term, including enhancements outlined in Insurellm’s 2025-2026 roadmap.
+3. **Updates and Upgrades**: EverGuard Insurance will receive all platform updates and upgrades at no additional cost during the contract term, including enhancements outlined in 1topcloudllm’s 2025-2026 roadmap.
 
 4. **Feedback Mechanisms**: EverGuard Insurance is encouraged to provide feedback regarding Rellm’s functionalities and any desired features, which will be considered for future updates.
 
 ---
 
 **Signatures**  
-**For Insurellm**: __________________________  
+**For 1topcloudllm**: __________________________  
 **Name**: John Smith  
 **Title**: Chief Operating Officer  
 **Date**: _________________  
@@ -55,4 +55,4 @@
 
 --- 
 
-This contract seeks to foster a strong partnership between Insurellm and EverGuard Insurance, leveraging Rellm to innovate and enhance reinsurance capabilities while ensuring mutual growth and compliance in the ever-evolving insurance landscape.
+This contract seeks to foster a strong partnership between 1topcloudllm and EverGuard Insurance, leveraging Rellm to innovate and enhance reinsurance capabilities while ensuring mutual growth and compliance in the ever-evolving insurance landscape.

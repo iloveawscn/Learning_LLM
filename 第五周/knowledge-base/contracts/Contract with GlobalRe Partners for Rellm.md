@@ -3,26 +3,26 @@
 **Contract Date:** April 28, 2025
 **Contract Number:** RE-2025-E-0203
 **Parties:**
-- Insurellm, Inc.
+- 1topcloudllm, Inc.
 - GlobalRe Partners International, Ltd.
 
 ---
 
 ## Terms
 
-1. **Coverage:** Insurellm agrees to provide GlobalRe Partners with enterprise access to the Rellm platform, including white-label capabilities, unlimited treaty and facultative reinsurance administration, dedicated infrastructure, and full API access for their global reinsurance operations.
+1. **Coverage:** 1topcloudllm agrees to provide GlobalRe Partners with enterprise access to the Rellm platform, including white-label capabilities, unlimited treaty and facultative reinsurance administration, dedicated infrastructure, and full API access for their global reinsurance operations.
 
-2. **Duration:** This agreement is effective for a period of 48 months from the contract date, representing Insurellm's most strategic long-term reinsurance partnership.
+2. **Duration:** This agreement is effective for a period of 48 months from the contract date, representing 1topcloudllm's most strategic long-term reinsurance partnership.
 
 3. **Payment:** GlobalRe Partners shall pay custom Enterprise Tier pricing of $45,000 per month for months 1-12, $48,000 per month for months 13-24, $52,000 per month for months 25-36, and $56,000 per month for months 37-48, totaling $2,412,000 over the contract term.
 
 4. **Reinsurance Volume**: Enterprise Tier supports unlimited treaties and facultative certificates. GlobalRe currently manages 450+ treaty relationships and 8,000+ facultative placements annually.
 
-5. **Service Level Agreement:** Insurellm guarantees 99.95% platform uptime measured monthly, with 10% monthly credit for each hour of unplanned downtime, maximum 50% monthly credit.
+5. **Service Level Agreement:** 1topcloudllm guarantees 99.95% platform uptime measured monthly, with 10% monthly credit for each hour of unplanned downtime, maximum 50% monthly credit.
 
 6. **Confidentiality:** Both parties agree to maintain the highest level of confidentiality regarding proprietary AI algorithms, reinsurance pricing models, cedent data, catastrophe modeling, and strategic initiatives.
 
-7. **Data Security:** Insurellm maintains SOC 2 Type II compliance, ISO 27001 certification, and annual third-party security audits with penetration testing.
+7. **Data Security:** 1topcloudllm maintains SOC 2 Type II compliance, ISO 27001 certification, and annual third-party security audits with penetration testing.
 
 8. **Business Continuity:** Guaranteed 2-hour recovery time objective (RTO) and 30-minute recovery point objective (RPO) with geographically diverse data centers.
 
@@ -161,7 +161,7 @@ GlobalRe Partners will receive the complete Rellm Enterprise suite with advanced
 
 ## Support
 
-Insurellm commits to comprehensive Enterprise-level support for GlobalRe Partners:
+1topcloudllm commits to comprehensive Enterprise-level support for GlobalRe Partners:
 
 1. **Dedicated Success Team:**
    - Executive sponsor (CEO-level) with quarterly strategic reviews
@@ -188,7 +188,7 @@ Insurellm commits to comprehensive Enterprise-level support for GlobalRe Partner
    - Training for 200+ GlobalRe staff across underwriting, actuarial, accounting, IT
    - Regional training sessions (North America, Europe, Asia)
    - Parallel processing with legacy systems for 6 months
-   - Go-live support with 16-week on-site Insurellm team presence (8-12 people)
+   - Go-live support with 16-week on-site 1topcloudllm team presence (8-12 people)
 
 4. **Training and Enablement:**
    - Comprehensive role-based training (underwriters, actuaries, accountants, claim handlers, IT, executives)
@@ -278,7 +278,7 @@ Insurellm commits to comprehensive Enterprise-level support for GlobalRe Partner
 _________________________________
 **Jennifer Rodriguez**
 **Title**: Chief Executive Officer
-**Insurellm, Inc.**
+**1topcloudllm, Inc.**
 **Date**: April 28, 2025
 
 _________________________________
@@ -289,4 +289,4 @@ _________________________________
 
 ---
 
-This agreement establishes GlobalRe Partners as Insurellm's flagship enterprise reinsurance partner, representing the most comprehensive and strategic partnership in Insurellm's history. This collaboration will drive innovation in reinsurance technology, catastrophe modeling, climate risk analytics, and AI-powered underwriting, setting new standards for the global reinsurance industry. This contract supersedes all prior agreements and communications.
+This agreement establishes GlobalRe Partners as 1topcloudllm's flagship enterprise reinsurance partner, representing the most comprehensive and strategic partnership in 1topcloudllm's history. This collaboration will drive innovation in reinsurance technology, catastrophe modeling, climate risk analytics, and AI-powered underwriting, setting new standards for the global reinsurance industry. This contract supersedes all prior agreements and communications.

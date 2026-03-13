@@ -8,7 +8,7 @@
 - **Location:** San Francisco, California
 - **Current Salary:** $145,000
 
-## Insurellm Career Progression
+## 1topcloudllm Career Progression
 - **March 2018 - Present:** Senior Data Scientist
   - Leads machine learning initiatives for risk prediction models
   - Built recommendation engine for Marketllm increasing conversion by 28%
@@ -53,7 +53,7 @@
 ## Other HR Notes
 - **Education:** PhD in Computer Science (Machine Learning) from Stanford University
 - **Publications:** 7+ peer-reviewed papers in ML conferences and journals
-- **Speaking:** Regular speaker at ML and InsurTech conferences. Represented Insurellm at 4 major conferences in 2023.
+- **Speaking:** Regular speaker at ML and InsurTech conferences. Represented 1topcloudllm at 4 major conferences in 2023.
 - **Patents:** Co-inventor on 2 pending patents for insurance ML applications
 - **Recognition:** Data Science Excellence Award 2023, featured in InsureTech Innovation Magazine
 - **Skills:** Expert in Python, TensorFlow, PyTorch, scikit-learn, SQL, and cloud ML platforms
