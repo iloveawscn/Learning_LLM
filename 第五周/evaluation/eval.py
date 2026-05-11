@@ -1,16 +1,40 @@
+import os
 import sys
 import math
+import threading
 from pydantic import BaseModel, Field
 from litellm import completion
 from dotenv import load_dotenv
 
 from evaluation.test import TestQuestion, load_tests
-from implementation.answer import answer_question, fetch_context
+from pro_implementation.answer import answer_question, fetch_context
+
+
+def with_timeout(func, args, timeout=120):
+    """Run func(*args) with a timeout. Raises TimeoutError if exceeded."""
+    result = [None]
+    exception = [None]
+
+    def target():
+        try:
+            result[0] = func(*args)
+        except Exception as e:
+            exception[0] = e
+
+    t = threading.Thread(target=target)
+    t.daemon = True
+    t.start()
+    t.join(timeout)
+    if t.is_alive():
+        raise TimeoutError(f"Timed out after {timeout}s")
+    if exception[0]:
+        raise exception[0]
+    return result[0]
 
 
 load_dotenv(override=True)
 
-MODEL = "gpt-4.1-nano"
+MODEL = "deepseek-ai/DeepSeek-V3.2"
 db_name = "vector_db"
 
 
@@ -153,7 +177,14 @@ Provide detailed feedback and scores from 1 (very poor) to 5 (ideal) for each di
     ]
 
     # Call LLM judge with structured outputs (async)
-    judge_response = completion(model=MODEL, messages=judge_messages, response_format=AnswerEval)
+    judge_response = completion(
+        model=MODEL,
+        messages=judge_messages,
+        response_format=AnswerEval,
+        custom_llm_provider="openai",
+        api_base="https://api.siliconflow.cn/v1",
+        api_key=os.getenv("SILICONCLOUD_API_KEY"),
+    )
 
     answer_eval = AnswerEval.model_validate_json(judge_response.choices[0].message.content)
 
@@ -161,29 +192,43 @@ Provide detailed feedback and scores from 1 (very poor) to 5 (ideal) for each di
 
 
 def evaluate_all_retrieval():
-    """Evaluate all retrieval tests."""
+    """Evaluate all retrieval tests sequentially with timeout protection."""
     tests = load_tests()
     total_tests = len(tests)
-    for index, test in enumerate(tests):
-        result = evaluate_retrieval(test)
-        progress = (index + 1) / total_tests
+    for i, test in enumerate(tests):
+        try:
+            result = with_timeout(evaluate_retrieval, (test,), timeout=120)
+        except TimeoutError as e:
+            print(f"Warning: test {i} timed out: {e}")
+            result = RetrievalEval(mrr=0, ndcg=0, keywords_found=0, total_keywords=0, keyword_coverage=0)
+        except Exception as e:
+            print(f"Warning: test {i} failed: {e}")
+            result = RetrievalEval(mrr=0, ndcg=0, keywords_found=0, total_keywords=0, keyword_coverage=0)
+        progress = (i + 1) / total_tests
         yield test, result, progress
 
 
 def evaluate_all_answers():
-    """Evaluate all answers to tests using batched async execution."""
+    """Evaluate all answers sequentially."""
     tests = load_tests()
     total_tests = len(tests)
-    for index, test in enumerate(tests):
-        result = evaluate_answer(test)[0]
-        progress = (index + 1) / total_tests
+    for i, test in enumerate(tests):
+        try:
+            result = with_timeout(evaluate_answer, (test,), timeout=120)[0]
+        except TimeoutError as e:
+            print(f"Warning: test {i} timed out: {e}")
+            result = AnswerEval(feedback="Evaluation timed out", accuracy=1, completeness=1, relevance=1)
+        except Exception as e:
+            print(f"Warning: test {i} failed: {e}")
+            result = AnswerEval(feedback="Evaluation failed", accuracy=1, completeness=1, relevance=1)
+        progress = (i + 1) / total_tests
         yield test, result, progress
 
 
 def run_cli_evaluation(test_number: int):
     """Run evaluation for a specific test (async helper for CLI)."""
     # Load tests
-    tests = load_tests("tests.jsonl")
+    tests = load_tests()
 
     if test_number < 0 or test_number >= len(tests):
         print(f"Error: test_row_number must be between 0 and {len(tests) - 1}")
