@@ -77,3 +77,32 @@ logs/
 # Do not sync vector database to remote
 第五周/vector_db/
 start.sh
+
+# HuggingFace datasets (本地缓存数据)
+第六周/hf_data/
+
+# 临时测试文件
+第六周/_tmp/
+第六周/_tmp_*.py
+
+# =========================
+# Week 6 (Price Is Right) — 课程数据/产物
+# =========================
+
+# Day 2 Batch API 中间产物（学员从脚本重新生成）
+第六周/siliconflow_lite/
+siliconflow_lite/
+
+# 上传到 HF 的导出（应从 HF Hub 下载，不入仓）
+exported_datasets/
+
+# 全局预缓存（已迁移到第二周/第四周）
+preprocessed_db/
+
+# =========================
+# Claude Code 协作（不外推）
+# =========================
+.claude/
+CLAUDE.md
+AGENTS.md
+docs/ai/

@@ -15,6 +15,7 @@ dependencies:
   - ipywidgets
   - matplotlib
   - scikit-learn
+  - xgboost
   - chromadb
   - jupyter-dash
   - sentencepiece
