@@ -1,0 +1,65 @@
+[
+  {
+    "deal": {
+      "product_description": "The Samsung Galaxy Watch Ultra is a premium 47mm LTE Titanium smartwatch designed for both style and functionality. It features a circular display made with durable materials suitable for outdoor activities, providing GPS tracking, health monitoring, and custom apps for various needs. The robust design integrates a range of smart features including notifications, music control, and heart rate tracking, making it an ideal companion for fitness enthusiasts and tech-savvy users alike.",
+      "price": 350.0,
+      "url": "https://www.dealnews.com/Samsung-Galaxy-Watch-Ultra-47-mm-LTE-Titanium-Smartwatch-up-to-350-off-w-Trade-in-free-shipping/21663266.html?iref=rss-c142"
+    },
+    "estimate": 773.8138460593241,
+    "discount": 423.8138460593241
+  },
+  {
+    "deal": {
+      "product_description": "The Refurbished Unlocked Apple iPhone 14 Pro Max offers an impressive 256GB storage and a huge display, perfect for both media consumption and productivity. Enjoy advanced camera technology for stunning photos. This model is designed to provide a seamless user experience with 5G capabilities for faster downloads and streaming. Refurbished to high standards, it comes in various colors and can support all the latest apps from the App Store, accommodating any Apple enthusiast's needs.",
+      "price": 705.0,
+      "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-14-Pro-Max-256-GB-Smartphone/462808.html?iref=rss-c142"
+    },
+    "estimate": 930.8824204895075,
+    "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The 11th\u2011generation Apple iPad (2025) features an 11\u2011inch 2360x1640 Liquid Retina display that offers sharp visuals and wide color for media, drawing, and productivity. Powered by the A16 chip, it delivers smooth performance for multitasking, games, and creative apps, while 128GB of storage provides room for apps, photos, and offline media. It includes a 12MP rear wide camera and a 12MP front Centre Stage camera that keeps you centered during video calls by automatically reframing the image. With Wi\u2011Fi 6 for fast connectivity, Touch ID for secure unlocking and payments, and iPadOS for multitasking and Apple Pencil support (depending on model), it serves as a versatile everyday tablet for work and entertainment.",
+      "price": 400.0,
+      "url": "https://www.dealnews.com/products/Apple/11-th-Gen-Apple-iPad-A16-128-GB-11-Tablet-2025/498312.html?iref=rss-c39"
+    },
+    "estimate": 718.3210357666015,
+    "discount": 318.32103576660154
+  },
+  {
+    "deal": {
+      "product_description": "The Arlo Essential 2K Wireless Security Camera 2-Pack consists of two wire-free cameras capable of recording in clear 2K resolution with a 130-degree field of view, suitable for monitoring wide areas indoors or outdoors. Each camera includes an integrated spotlight and supports color night vision, enhancing detail in low-light conditions and deterring unwanted visitors. The system offers intelligent detection for people, vehicles, pets, and packages, helping to reduce unnecessary alerts. These cameras integrate with major smart home platforms including Alexa, Google Home, Apple Home, SmartThings, and IFTTT for flexible voice control and automation.",
+      "price": 65.55,
+      "url": "https://www.dealnews.com/products/Arlo/Arlo-Essential-2-K-Wireless-Security-Camera-2-Pack/525250.html?iref=rss-f1912"
+    },
+    "estimate": 213.28742083740238,
+    "discount": 147.7374208374024
+  },
+  {
+    "deal": {
+      "product_description": "The Acer Nitro 31.5\" curved gaming monitor features a VA panel with a WQHD resolution of 2560 x 1440, providing sharp visuals on a large, immersive screen. Its 180Hz refresh rate and 1ms response time are designed for fast-paced gaming, reducing motion blur and input lag. AMD FreeSync Premium (Adaptive Sync) support helps eliminate screen tearing when paired with a compatible graphics card. It includes two HDMI ports and one DisplayPort input, along with a nearly bezel-less ZeroFrame design and tilt adjustment from -5 to 20 degrees for more flexible ergonomics.",
+      "price": 180.0,
+      "url": "https://www.dealnews.com/Acer-Nitro-Gaming-31-5-1440-p-Curved-180-Hz-Free-Sync-Monitor-for-180-free-shipping/22267641.html?iref=rss-c39"
+    },
+    "estimate": 302.63902758789067,
+    "discount": 122.63902758789067
+  },
+  {
+    "deal": {
+      "product_description": "The MSI Codex Z2 is a gaming desktop built around an AMD Ryzen 5 8400F processor paired with an NVIDIA GeForce RTX 5060 graphics card with 8GB of dedicated video memory, targeting smooth 1080p and 1440p gaming. It comes equipped with 16GB of fast DDR5 memory and a 1TB NVMe SSD, providing quick load times and ample storage for modern games and applications. A 650W 80+ Gold power supply helps ensure stable, efficient power delivery to the system\u2019s components. The tower includes Wi-Fi 6E, Bluetooth 5.2, Windows 11, and an MSI-branded mouse and keyboard, making it a ready-to-play package out of the box.",
+      "price": 899.0,
+      "url": "https://www.dealnews.com/MSI-Codex-Z2-Rysen-5-8400-F-RTX-5060-Gaming-Desktop-for-899-free-shipping/22267142.html?iref=rss-c39"
+    },
+    "estimate": 1147.745552246094,
+    "discount": 248.7455522460939
+  },
+  {
+    "deal": {
+      "product_description": "The Lefant M2 Plus is a robot vacuum and mop combo that automates both dry sweeping and wet mopping for hard floors and low-pile carpets. It uses 360\u00b0 LiDAR mapping with obstacle avoidance to create accurate floor maps, enabling app-controlled zone cleaning and virtual no-go zones for more targeted cleaning. With up to 6,000Pa of suction and automatic carpet boost, it can handle embedded dirt and pet hair while adjusting power where needed. A self-emptying station stores debris for up to 75 days, and dual-band 2.4G/5G WiFi provides stable connectivity for scheduling and remote control via the app.",
+      "price": 120.0,
+      "url": "https://www.dealnews.com/products/Lefant/Lefant-M2-Plus-Robot-Vacuum-and-Mop/501119.html?iref=rss-f1912"
+    },
+    "estimate": 405.5631303710938,
+    "discount": 285.5631303710938
+  }
+]
