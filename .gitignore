@@ -85,6 +85,12 @@ start.sh
 第六周/_tmp/
 第六周/_tmp_*.py
 
+# 预训练模型权重（学员从 Google Drive 下载）
+第六周/deep_neural_network.pth
+
+# 演示用结果截图（不入仓，学员不需要）
+第六周/fin.png
+
 # =========================
 # Week 6 (Price Is Right) — 课程数据/产物
 # =========================
@@ -106,3 +112,26 @@ preprocessed_db/
 CLAUDE.md
 AGENTS.md
 docs/ai/
+.zcodeignore
+
+# =========================
+# Week 7/8 — 排除项（2026-10-18 确认不入仓）
+# =========================
+
+# 原版英文课件（Ed Donner 版权，不入仓）
+第七周/original_colab/
+
+# 录课工作文件（逐字稿/Notion 备份/录课数据总账，内部资料）
+第七周/*-逐字稿-重排.md
+第七周/notion_backup_*/
+第八周/notion_backup_*/
+第八周/录课数据记录.md
+
+# 一次性备课修复脚本（修复自己 HF 仓库损坏权重用）
+第七周/fix_corrupted_safetensors.py
+
+# 预训练模型权重（学员从 Google Drive 下载）
+第八周/deep_neural_network.pth
+
+# 学员跑 build_vectorstore.py 自行构建的向量库
+第八周/products_vectorstore/
