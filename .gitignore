@@ -10,6 +10,9 @@
 
 .virtual_documents/
 
+# Gradio 运行时目录（自动生成，含证书等杂物）
+.gradio/
+
 # =========================
 
 # Python
